@@ -1,14 +1,14 @@
-description: Template repository
+description: null
 github_branch: MODUL01A
 github_branches:
 - MODUL01A
-github_repo: MODUL01
-github_url: https://github.com/mlab-modules/MODUL01
+github_description: null
+github_repo: LED7SEG02
+github_url: https://github.com/mlab-modules/LED7SEG02
 homepage: false
 images: []
 issues: 2
 mark: 50
-tags:
-- mlab
-- mlab-module
-title: MODUL01
+tags: []
+title: LED7SEG02
+updated: '2026-02-05T22:08:27.467346+00:00'
