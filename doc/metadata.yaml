@@ -1,5 +1,5 @@
 description: null
-github_branch: MODUL01A
+github_branch: LED7SEG02A
 github_branches:
 - MODUL01A
 github_description: null
@@ -11,4 +11,4 @@ issues: 2
 mark: 50
 tags: []
 title: LED7SEG02
-updated: '2026-02-06T01:44:17.222224+00:00'
+updated: '2026-02-06T23:58:33.054989+00:00'
