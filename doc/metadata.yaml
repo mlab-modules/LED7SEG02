@@ -1,11 +1,11 @@
 description: 7-segment display with WS2815 addressable RGB LEDs and RS485 communication.
 github_branch: LED7SEG02A
 github_branches:
-- MODUL01A
 github_description: 7-segment display with WS2815 addressable RGB LEDs and RS485 communication.
 github_repo: LED7SEG02
 github_url: https://github.com/mlab-modules/LED7SEG02
 homepage: false
+image_title: doc/gen/img/LED7SEG02-top.png
 images:
 - doc/gen/img/LED7SEG02-bottom.png
 - doc/gen/img/LED7SEG02-top.png
@@ -18,6 +18,7 @@ images:
 - hw/cam_profi/assembly/LED7SEG02-assembly_page_02.svg
 - hw/cam_profi/assembly/LED7SEG02-assembly_page_01.svg
 issues: 2
+status: 2
 mark: 50
 mod_ibom: hw/cam_profi/LED7SEG02-ibom.html
 mod_scheme: doc/gen/LED7SEG02-schematic.pdf
