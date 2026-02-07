@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","Conn_02x05_Odd_Even","PinHeader_2x05_P2.54mm_Vertical",139.5000,-122.4200,180.0000,bottom
+"J2","Conn_01x02","PinHeader_1x02_P2.54mm_Vertical",151.7750,-112.5000,90.0000,bottom
+"SW1","MSSR-16S-TR","Nidec_Copal_SH-7010B",138.5000,-112.5000,180.0000,bottom
