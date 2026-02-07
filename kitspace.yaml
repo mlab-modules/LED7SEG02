@@ -5,4 +5,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/LED7SEG02
-summary: null
+summary: 7-segment display with WS2815 addressable RGB LEDs and RS485 communication.

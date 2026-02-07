@@ -1,14 +1,16 @@
-description: null
+description: 7-segment display with WS2815 addressable RGB LEDs and RS485 communication.
 github_branch: LED7SEG02A
 github_branches:
 - MODUL01A
-github_description: null
+github_description: 7-segment display with WS2815 addressable RGB LEDs and RS485 communication.
 github_repo: LED7SEG02
 github_url: https://github.com/mlab-modules/LED7SEG02
 homepage: false
 images: []
 issues: 2
 mark: 50
-tags: []
+tags:
+- 7segmentdisplay
+- led-controller
 title: LED7SEG02
-updated: '2026-02-06T23:58:33.054989+00:00'
+updated: '2026-02-07T00:06:25.158138+00:00'
